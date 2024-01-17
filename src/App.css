@@ -4,7 +4,7 @@
 }
 
 h1,
-form {
+form, p {
   text-align: left;
   margin-left: 30px;
 }
@@ -15,3 +15,4 @@ form {
 ul {
   text-align: left;
 }
+
